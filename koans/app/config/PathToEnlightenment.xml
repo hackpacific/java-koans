@@ -31,14 +31,14 @@
         <suite class="AboutEquality"/>
         <suite class="AboutFileIO"/>
         <suite class="AboutInnerClasses"/>
-        <suite class="AboutLocale"/>
+        <!-- <suite class="AboutLocale"/> -->
         <suite class="AboutRegularExpressions"/>
         <suite class="AboutSerialization"/>
     </package>
-    <package pkg="advanced" name="Advanced">
+    <!-- <package pkg="advanced" name="Advanced">
         <suite class="AboutMocks"/>
-    </package>
-    <package pkg="java7" name="Java 7">
+    </package>  -->
+    <!-- <package pkg="java7" name="Java 7">
         <suite class="AboutJava7LiteralsEnhancements"/>
         <suite class="AboutStringsInSwitch"/>
         <suite class="AboutDiamondOperator"/>
@@ -53,5 +53,5 @@
         <suite class="AboutStreams"/>
         <suite class="AboutMultipleInheritance"/>
         <suite class="AboutBase64"/>
-    </package>
+    </package> -->
 </packages>
